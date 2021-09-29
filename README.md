@@ -8,4 +8,4 @@ A rudimentary platformer controller is included to demonstrate potential uses of
 
 ![Player Demo](/player_demo.gif)
 
-The source code can be found [here](https://github.com/milesturin/stronghold/tree/master/src/scripts).
+The source code can be found [here](https://github.com/milesturin/Godot-Destructable-Terrain/tree/main/src/scripts).
